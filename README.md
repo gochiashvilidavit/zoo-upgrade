@@ -52,6 +52,7 @@ Penguin is swimming...
 Tiger is roaring...
 Dolphin is swimming fast...
 
+
 ---
 
 ## 🔍 Quick Summary
@@ -63,5 +64,17 @@ object serialization, interfaces, and polymorphism.
 ✅ Concepts: Inheritance, Interfaces, Serialization  
 ✅ Goal: Show clean and modular Java development with real file persistence  
 
-🧑‍💻 Built by **Daviti Gochiashvili** — [LinkedIn](https://www.linkedin.com/in/gochiashvilidavit)  
-📂 Full code: [GitHub Repository](https://github.com/gochiashvilidavit/zoo-upgrade)
+---
+
+## 👨‍💻 Author
+
+**Daviti Gochiashvili**  
+🎓 M.S. in Web Application Development – Touro University, New York  
+💼 Java & Web Developer | AI Enthusiast  
+📧 [gochiashvilidavit@gmail.com](mailto:gochiashvilidavit@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/gochiashvilidavit) | [GitHub](https://github.com/gochiashvilidavit)
+
+---
+
+📂 **Full Code:** [GitHub Repository](https://github.com/gochiashvilidavit/zoo-upgrade)
+
