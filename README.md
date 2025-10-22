@@ -1,3 +1,5 @@
+![Zoo Serialization Project Banner](zooupgrade.png)
+
 # 🦁 Zoo Serialization Project
 
 A Java console-based application developed as part of the **Coursera Programming with Java** course.  
