@@ -38,7 +38,21 @@ It highlights how to save and restore the state of Java objects using serializat
 ---
 
 ## 🧩 Example Output
+Zoo Menu:
 
+Display properties
+
+Display movement
+
+Display eating
+
+Exit
+
+Penguin is swimming...
+Tiger is roaring...
+Dolphin is swimming fast...
+
+---
 
 ## 🔍 Quick Summary
 
